@@ -11,7 +11,7 @@ Phone: <b>+1 6823658736</b>
 Also browse my shop at <a href="https://www.shoppablezone.com/">ShoppableZone</a>
 
 ## Demo
-[link to Demo](https://Pradipadkari.github.io/):[https://Pradipadkari.github.io/](https://Pradipadkari.github.io/)
+[link to Demo](https://pradipadkari.github.io/):[https://pradipadkari.github.io/](https://pradipadkari.github.io/)
 
 
 
